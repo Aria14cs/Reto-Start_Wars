@@ -1,0 +1,14 @@
+.character_list {
+  list-style: none; /* Elimina los puntos de la lista */
+  display:inline;
+  justify-content: flex-start;
+  padding: 0;
+}
+
+.character_container {
+  border: 1px solid #ccc;
+  padding: 10px;
+  width: 350px;
+  height: 69px;
+  margin-bottom: 0px; /* Agregar margen inferior entre personajes si es necesario */
+}
